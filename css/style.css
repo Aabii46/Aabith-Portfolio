@@ -1,0 +1,42 @@
+body{
+    font-family: "Poppins", serif;
+}
+.banner{
+    background-image: url(../aabii-images/images/aabii.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+.skills-padding{
+    padding :70px 0;
+}
+.header-text{
+    margin-top: 20px;
+    font-size: 30px;
+}
+.header-text h1{
+    font-size: 60px;
+    margin-top: 20px;
+}
+.social-media{
+   display: flex;
+   justify-content: center;
+}
+.icon-bg{
+    background-color: aliceblue;
+    height: 60px;
+    width:60px;
+    display: inline-block;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.fa-brands {
+    color: black;
+    font-size: 20px;
+    margin: 21px 20px;
+
+}
+.icon-bg:hover{
+    background-color: rgb(193, 231, 55);
+}
